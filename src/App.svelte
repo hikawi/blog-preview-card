@@ -8,9 +8,9 @@
     <img src="/illustration-article.svg" alt="Illustration for Blog" class="rounded-lg" />
 
     <div class="flex flex-col justify-center gap-3">
-      <p class="bg-yellow py-1 px-3 w-fit font-bold">Learning</p>
+      <p class="bg-yellow py-1 px-3 w-fit font-extrabold text-sm">Learning</p>
       <p class="text-sm">Published 21 Dec 2023</p>
-      <h1 class="text-2xl font-bold max-w-full min-w-fit hover:text-yellow cursor-pointer">HTML & CSS foundations</h1>
+      <h1 class="text-2xl font-extrabold max-w-full min-w-fit hover:text-yellow cursor-pointer">HTML & CSS foundations</h1>
       <p class="text-gray-500">These languages are the backbone of every website, defining structure, content, and presentation.</p>
     </div>
 
